@@ -15,14 +15,6 @@ Me destaco por mi aprendizaje rápido, adaptación tecnológica, orientación a 
 
 ---
 
-## 🎓 Education
-
-**Universidad Tecnológica del Perú**  
-*Mar 2021 – Actualidad*  
-Estudiante de Ingeniería en Sistemas, 7° ciclo.
-
-**Cibertec**  
-Curso **JAVA Backend Developer** - Completado ✅
 
 ---
 
@@ -46,31 +38,6 @@ Curso **JAVA Backend Developer** - Completado ✅
 
 ---
 
-## 📂 Projects
-
-### **Sistema de Gestión BarberShop** – Proyecto finalizado
-Desarrollo y comercialización de una página web para la gestión de empleados y control de ganancias de una barbería local.  
-**Tecnologías:** Spring Boot, React, MySQL, Docker, GitHub.  
-[Ver proyecto](https://github.com/Josepsito/control-inventario)
-
-### **Sistema de Cine** – Proyecto académico
-Aplicación de escritorio para la gestión de funciones de cine (cartelera, ventas de entradas y gestión de usuarios).  
-Obtuve la mayor calificación por funcionalidad y aplicación de patrones de diseño.  
-**Tecnologías:** Java, Swing
-
-### **Sistema de Gestión de Zoológico de Reservas** – Proyecto académico
-Gestión de reservas y control de visitantes en un zoológico.  
-**Tecnologías:** Spring Boot, Thymeleaf, JavaScript, HTML, Bootstrap, MySQL
-
-### **Aplicación de Entrega de Comida con GPS** – Proyecto personal en desarrollo
-Aplicación web de pedidos de comida con integración de mapas y rastreo GPS en tiempo real.  
-**Tecnologías:** Spring Boot (backend), Angular (frontend), PostgreSQL, Docker
-
----
-
-## 🏆 Achievements
-- Sistema BarberShop (2025): Desarrollo completo de una página web para gestión de empleados y ganancias.  
-- Mayor nota en proyecto final de Sistema de Cine (2023), destacando diseño, funcionalidad y presentación.
 
 ---
 

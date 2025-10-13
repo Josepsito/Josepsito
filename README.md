@@ -13,10 +13,6 @@ Actualmente practicando **Go** para ampliar mis conocimientos.
 Conocimientos en **API REST, microservicios, Apache Kafka, Docker**, así como uso de **Postman, Swagger, Linux y Git/GitHub**.  
 Me destaco por mi aprendizaje rápido, adaptación tecnológica, orientación a resultados y trabajo en equipo.  
 
----
-
-
----
 
 ## 🚀 Technologies & Tools
 
@@ -36,26 +32,9 @@ Me destaco por mi aprendizaje rápido, adaptación tecnológica, orientación a 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
 
-
----
 
 ## 📫 Contact Me
 - Email: [jhosef.nacor.condori.chauca@gmail.com](mailto:jhosef.nacor.condori.chauca@gmail.com)  
 - GitHub: [https://github.com/Josepsito](https://github.com/Josepsito)
 
-<!--
-**Josepsito/Josepsito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

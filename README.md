@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Jhosef Nacor Condori Chauca (Josepsito)
 
-[![Email](https://img.shields.io/badge/Email-jhosef.nacor.condori.chauca@gmail.com-blue?style=flat&logo=gmail)](mailto:jhosef.nacor.condori.chauca@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Josepsito-black?style=flat&logo=github)](https://github.com/Josepsito)
-
----
 
 ## 💻 About Me
 Desarrollador de software en formación con experiencia en aplicaciones **backend** y **frontend** usando tecnologías modernas.  

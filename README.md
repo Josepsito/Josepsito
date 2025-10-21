@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jhosef Nacor Condori Chauca (Josepsito)
+# 👋 Hi, I'm Jhosef Nacor Condori Chauca
 
 
 ## 💻 About Me

@@ -1,336 +1,351 @@
-# Hi, I'm Jhosef Nacor Condori Chauca
+<div align="center">
 
-### Software Developer | Backend & Full Stack
+# 👋 Hi, I'm **Jhosef Nacor Condori Chauca**
 
-Desarrollador de software en formación, enfocado principalmente en **Backend Development** y desarrollo de aplicaciones **Full Stack**.
+### 💻 Software Developer | Backend & Full Stack
 
-Me interesa construir aplicaciones escalables, diseñar APIs REST, trabajar con bases de datos, integrar servicios y explorar arquitecturas modernas. Actualmente estoy profundizando mis conocimientos en **Java/Spring Boot y Go**, además de tecnologías relacionadas con sistemas distribuidos, microservicios y desarrollo de aplicaciones con IA.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B889&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Go;Backend+%7C+Full+Stack+Developer;Angular+%7C+TypeScript+%7C+JavaScript;Microservices+%7C+Kafka+%7C+Docker;AI+%7C+Ollama+%7C+Spring+AI" alt="Typing SVG" />
 
----
+<br>
 
-## About Me
+<img src="https://komarev.com/ghpvc/?username=Josepsito&style=for-the-badge&color=00b889&label=PROFILE+VIEWS" />
 
-* Software Engineering student
-* Enfoque principal en **Backend Development**
-* Experiencia desarrollando aplicaciones **Web y APIs REST**
-* Desarrollo con **Java + Spring Boot**
-* Actualmente profundizando en **Go + Gin**
-* Experiencia con **Angular, TypeScript y JavaScript**
-* Conocimientos de **microservicios y Apache Kafka**
-* Desarrollo y consumo de **APIs REST**
-* Autenticación y autorización con **JWT y Spring Security**
-* Contenedorización con **Docker**
-* Trabajo con bases de datos **SQL y NoSQL**
-* Experiencia trabajando con **Linux, Git y GitHub**
-* Explorando aplicaciones de **Artificial Intelligence / LLMs**
+</div>
 
 ---
 
-# Tech Stack
+## 🧑‍💻 About Me
 
-## Backend
+```java
+public class Jhosef {
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
+    String role = "Software Developer";
+    String focus = "Backend & Full Stack Development";
 
-### Backend Concepts
+    String[] mainTechnologies = {
+        "Java",
+        "Spring Boot",
+        "Go",
+        "Angular",
+        "TypeScript"
+    };
 
-* REST APIs
-* Microservices
-* Authentication & Authorization
-* JWT
-* Spring Security
-* WebSockets
-* Event-driven architecture
-* Concurrent programming
-* Goroutines
-* Channels
-* Workers
-* Middleware
-* Dependency Injection
-* Layered Architecture
-* Modular Monolith
-* API integration
+    String[] interests = {
+        "Backend Architecture",
+        "Microservices",
+        "Distributed Systems",
+        "Artificial Intelligence",
+        "Cloud & DevOps"
+    };
+
+    String[] currentlyLearning = {
+        "Go",
+        "WebFlux",
+        "Keycloak",
+        "Kubernetes",
+        "Jenkins"
+    };
+}
+```
+
+Software developer en formación, enfocado principalmente en **Backend Development** y desarrollo de aplicaciones **Full Stack**.
+
+Me interesa construir APIs, diseñar sistemas escalables, trabajar con bases de datos, integrar servicios y explorar arquitecturas modernas.
+
+Actualmente profundizo mis conocimientos en **Java/Spring Boot y Go**, además de tecnologías relacionadas con **microservicios, sistemas distribuidos, mensajería e inteligencia artificial**.
 
 ---
 
-# Frontend
+# 🚀 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+## ☕ Backend
 
-### Frontend Concepts
+<div align="center">
 
-* Angular Standalone Components
-* Angular Signals
+<img src="https://skillicons.dev/icons?i=java,spring,go,nodejs" />
+
+</div>
+
+### Technologies
+
+`Java` `Spring Boot` `Spring Security` `Spring AI`
+`Go` `Gin` `Node.js`
+`REST APIs` `Microservices` `WebSockets`
+`JWT` `OAuth2` `Dependency Injection`
+
+---
+
+## 🎨 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind,bootstrap" />
+
+</div>
+
+### Technologies
+
+`Angular` `React` `TypeScript` `JavaScript`
+`HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+
+### Angular
+
+* Standalone Components
+* Signals
 * Reactive Forms
 * HTTP Client
-* Route Guards
 * Interceptors
-* Component-based architecture
-* Responsive Web Design
+* Route Guards
 * REST API integration
 
 ---
 
-# Databases
+# 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+</div>
 
 ### SQL
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+`MySQL` `PostgreSQL`
 
-### NoSQL / Vector Databases
+### NoSQL / Vector
 
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
+`MongoDB` `ChromaDB`
 
-### Database Knowledge
+### Knowledge
 
-* SQL
-* Relational database design
-* CRUD
-* Joins
+* Database modeling
 * Relationships
+* Joins
 * Constraints
 * Indexes
 * Transactions
-* PostgreSQL
-* MySQL
-* MongoDB
-* Vector databases
-* Semantic search
+* CRUD
+* SQL
+* Semantic Search
+* Vector Databases
 
 ---
 
-# Messaging & Distributed Systems
+# 📨 Messaging & Distributed Systems
 
-<p>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-</p>
+<div align="center">
 
-* Apache Kafka
-* Producers & Consumers
-* Kafka Topics
-* Consumer Groups
+<img src="https://skillicons.dev/icons?i=kafka" />
+
+</div>
+
+### Technologies
+
+`Apache Kafka` `WebSockets`
+
+### Concepts
+
+* Producers
+* Consumers
+* Topics
 * Partitions
+* Consumer Groups
 * Event-driven architecture
-* Real-time communication
-* WebSockets
 * Asynchronous processing
+* Real-time communication
 
 ---
 
-# Artificial Intelligence
+# 🤖 Artificial Intelligence
 
-<p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-</p>
 
-* LLM integration
-* Local AI
+</div>
+
+### AI Technologies
+
 * Ollama
 * Spring AI
-* ChatClient
+* LLM integration
+* Local AI
 * Embeddings
-* Semantic Search
 * Vector databases
+* Semantic search
 * RAG concepts
-* AI-assisted applications
-* Local AI infrastructure
+* AI-powered applications
 
 ---
 
-# DevOps & Tools
+# 🔐 Security
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
+<div align="center">
 
-### Tools
+<img src="https://skillicons.dev/icons?i=spring" />
 
-* Docker
-* Docker Compose
-* Linux
-* Git
-* GitHub
-* Postman
-* Swagger / OpenAPI
-* IntelliJ IDEA
-* Visual Studio Code
-* JetBrains tools
-* PowerShell
-* Bash
-* WSL
+<br><br>
 
----
-
-# Security
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white"/>
+
+</div>
 
 * Spring Security
 * JWT
 * Authentication
 * Authorization
 * Role-Based Access Control
-* Password encryption
 * BCrypt
+* Security Filters
 * HTTP Cookies
-* Security filters
-* Access control
+* Access Control
 
 ---
 
-# Architecture & Methodologies
+# 🐳 DevOps & Tools
 
-### Software Architecture
+<div align="center">
 
-* REST API
-* Layered Architecture
-* MVC
-* Modular Monolith
-* Microservices
-* Event-Driven Architecture
-* Client-Server Architecture
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,idea,vscode,bash,powershell" />
 
-### Development
+</div>
 
-* Agile Methodologies
-* Scrum
-* Git Flow
-* API First
-* Clean Code
-* SOLID principles
-* Object-Oriented Programming
-* Design Patterns
+### Tools
+
+`Docker` `Docker Compose`
+`Linux` `Git` `GitHub`
+`Postman` `Swagger / OpenAPI`
+`IntelliJ IDEA` `VS Code`
+`Bash` `PowerShell` `WSL`
 
 ---
 
-# Projects
+# 🏗️ Architecture & Development
 
-## RecruitAI
+### Architecture
 
-**AI-powered recruitment platform** developed with Java and Spring Boot.
+```text
+┌────────────────────────────────────────────┐
+│              SOFTWARE DEVELOPMENT          │
+├────────────────────────────────────────────┤
+│                                            │
+│  REST APIs          Microservices          │
+│  Modular Monolith   Event-Driven           │
+│  MVC                Layered Architecture   │
+│  Client / Server    Distributed Systems    │
+│                                            │
+└────────────────────────────────────────────┘
+```
 
-Platform focused on matching candidates with job offers using CV processing, skills extraction and semantic search.
+### Development Practices
 
-### Technologies
+`OOP` `SOLID` `Clean Code`
+`Design Patterns` `Agile` `Scrum`
+`Git Flow` `API First`
 
-`Java` `Spring Boot` `Spring Security` `JWT` `Spring AI` `MySQL` `ChromaDB` `Angular` `TypeScript` `Docker` `Ollama`
+---
+
+# 🚀 Featured Projects
+
+## 🤖 RecruitAI
+
+> AI-powered recruitment platform
+
+Aplicación desarrollada para realizar matching entre candidatos y ofertas laborales utilizando procesamiento de CV, extracción de habilidades y búsqueda semántica.
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,mysql,docker" />
+
+`Spring AI` `JWT` `Ollama` `ChromaDB`
 
 ### Features
 
-* User authentication
-* JWT-based security
-* Candidate management
-* Company management
-* Job offers
-* Job applications
-* CV processing
-* Skills management
-* Semantic search
-* AI integration
-* Vector embeddings
+* 🔐 Authentication & Authorization
+* 👤 Candidate Management
+* 🏢 Company Management
+* 💼 Job Offers
+* 📄 CV Processing
+* 🧠 AI Integration
+* 🔎 Semantic Search
+* 📊 Skills Management
+* 📝 Job Applications
+* 🗄️ Vector Database
 
 ---
 
-## Go Delivery API
+## 🚚 Go Delivery API
 
-Backend project developed to practice **Go backend development** and concurrent programming.
+> Backend project developed with Go
 
-### Technologies
+Proyecto orientado al aprendizaje de **Go, APIs REST, PostgreSQL y programación concurrente**.
 
-`Go` `Gin` `PostgreSQL` `pgx` `REST API` `Goroutines` `Channels`
+### Stack
+
+<img src="https://skillicons.dev/icons?i=go,postgres,docker" />
 
 ### Concepts
 
-* REST APIs
-* Goroutines
-* Channels
-* Workers
-* WaitGroups
-* Mutex
-* Atomic operations
-* PostgreSQL
-* Concurrent processing
+* ⚡ Goroutines
+* 🔄 Channels
+* 👷 Workers
+* 🔒 Mutex
+* ⚛️ Atomic Operations
+* ⏳ WaitGroups
+* 🗄️ PostgreSQL
+* 🌐 REST API
 
 ---
 
-# Currently Learning
+# 📚 Currently Learning
 
-```text
-Go
-Gin
-PostgreSQL
-WebFlux
-Keycloak
-OAuth2 / OpenID Connect
-Kubernetes
-Jenkins
-SonarQube
-Advanced Microservices
-Distributed Systems
-AI / LLM Applications
-```
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=go,kubernetes,jenkins" />
 
-# GitHub
+<br><br>
 
-<p align="center">
-  <a href="https://github.com/Josepsito">
-    <img src="https://img.shields.io/badge/GitHub-Josepsito-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
+<img src="https://img.shields.io/badge/OIDC-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+
+</div>
 
 ---
 
-# Contact
+# 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:jhosef.nacor.condori.chauca@gmail.com">
-<img src="https://img.shields.io/badge/Email-jhosef.nacor.condori.chauca%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Josepsito&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<a href="https://github.com/Josepsito">
-<img src="https://img.shields.io/badge/GitHub-Josepsito-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josepsito&layout=compact&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>Backend • Full Stack • Java • Spring Boot • Go • AI</b>
-</p>
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Josepsito&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubuserc

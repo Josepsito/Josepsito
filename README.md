@@ -348,4 +348,3 @@ Proyecto orientado al aprendizaje de **Go, APIs REST, PostgreSQL y programación
 
 <div align="center">
 
-<img src="https://raw.githubuserc

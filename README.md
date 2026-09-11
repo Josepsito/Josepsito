@@ -318,19 +318,6 @@ Proyecto orientado al aprendizaje de **Go, APIs REST, PostgreSQL y programación
 
 </div>
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Josepsito&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josepsito&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -338,11 +325,4 @@ Proyecto orientado al aprendizaje de **Go, APIs REST, PostgreSQL y programación
 
 <img src="https://streak-stats.demolab.com?user=Josepsito&theme=tokyonight&hide_border=true" />
 
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
 

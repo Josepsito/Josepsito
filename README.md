@@ -4,11 +4,17 @@
 
 ### 💻 Software Developer | Backend & Full Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B889&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Go;Backend+%7C+Full+Stack+Developer;Angular+%7C+TypeScript+%7C+JavaScript;Microservices+%7C+Kafka+%7C+Docker;AI+%7C+Ollama+%7C+Spring+AI" alt="Typing SVG" />
+**Desarrollador de software en formación, enfocado en Backend y desarrollo Full Stack.**
+
+Especializado en construir **APIs REST, aplicaciones web y sistemas escalables**, trabajando principalmente con **Java, Spring Boot, Go, Angular y TypeScript**.
+
+Actualmente explorando **microservicios, sistemas distribuidos, Apache Kafka, Docker e Inteligencia Artificial**.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Josepsito&style=for-the-badge&color=00b889&label=PROFILE+VIEWS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B889&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Go;Backend+%7C+Full+Stack+Developer;Angular+%7C+TypeScript+%7C+JavaScript;Microservices+%7C+Kafka+%7C+Docker;AI+%7C+Ollama+%7C+Spring+AI" alt="Typing SVG" />
+
+<br>
 
 </div>
 
@@ -47,14 +53,6 @@ public class Jhosef {
     };
 }
 ```
-
-Software developer en formación, enfocado principalmente en **Backend Development** y desarrollo de aplicaciones **Full Stack**.
-
-Me interesa construir APIs, diseñar sistemas escalables, trabajar con bases de datos, integrar servicios y explorar arquitecturas modernas.
-
-Actualmente profundizo mis conocimientos en **Java/Spring Boot y Go**, además de tecnologías relacionadas con **microservicios, sistemas distribuidos, mensajería e inteligencia artificial**.
-
----
 
 # 🚀 Tech Stack
 
